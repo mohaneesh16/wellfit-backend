@@ -1,0 +1,501 @@
+food_name,calories_per_100g,protein_g,carbs_g,fats_g
+Poha (Spicy),193,22.8,37.3,14.3
+Palak Paneer (Traditional),413,17.8,36.6,15.0
+Paneer Butter Masala,276,6.2,35.7,26.1
+Vada (Restaurant),280,2.0,39.3,16.5
+Kheer,289,11.4,48.9,18.8
+Chicken Biryani (Traditional),428,17.4,57.9,5.9
+Ladoo,265,4.3,17.2,9.7
+Poha (Traditional),232,18.5,30.0,21.3
+Kadhi (Low Oil),256,24.6,18.5,5.2
+Pav Bhaji (Home Style),106,11.7,36.4,3.5
+Paratha (Traditional),272,10.9,7.5,12.5
+Idli (Home Style),123,4.8,23.6,4.5
+Pav Bhaji (Spicy),312,15.3,28.6,21.6
+Omelette (Low Oil),301,15.5,50.5,20.1
+Paneer Biryani (Home Style),233,4.5,34.0,9.4
+Masala Dosa (Restaurant),195,7.9,15.0,9.4
+Brown Rice (Home Style),298,4.7,6.2,24.4
+Paneer Paratha (Spicy),271,23.1,42.3,18.5
+Gulab Jamun,134,6.5,52.6,7.0
+Pakora (Low Oil),212,18.7,26.7,29.0
+Omelette (Home Style),143,13.0,16.1,24.4
+Paneer Butter Masala (Home Style),404,10.1,24.7,25.4
+Chapati (Low Oil),175,22.4,34.2,27.6
+Gulab Jamun (Home Style),280,15.1,6.6,2.4
+Dhokla (Low Oil),263,22.8,31.8,28.2
+Pakora (Spicy),406,3.7,39.4,12.6
+Brown Rice (Spicy),116,13.4,6.1,16.9
+Dal Tadka (Restaurant),145,6.6,25.6,16.7
+Uttapam (Spicy),349,13.6,20.1,21.3
+Dal Tadka,142,15.1,49.6,6.3
+Boiled Egg (Low Oil),158,10.3,26.6,5.9
+Dal Tadka (Spicy),433,4.2,51.7,9.3
+Dal Makhani (Restaurant),165,14.8,41.8,7.4
+Rava Dosa (Traditional),417,9.2,24.7,15.8
+Pongal (Restaurant),366,20.5,9.1,7.9
+Uttapam (Traditional),221,7.5,39.9,14.7
+Plain Rice (Spicy),138,11.9,42.8,26.5
+Halwa (Low Oil),151,24.3,39.4,9.9
+Paratha (Home Style),223,22.1,14.3,21.4
+Misal Pav,215,6.0,41.6,6.5
+Omelette (Spicy),254,22.5,9.3,16.8
+Medu Vada (Home Style),86,17.7,21.4,16.9
+Chicken Biryani (Home Style),159,14.5,53.7,21.5
+Biryani (Traditional),116,11.3,59.9,28.0
+Masala Dosa (Spicy),277,5.9,13.8,26.7
+Boiled Egg (Spicy),87,23.7,23.8,19.9
+Kheer (Home Style),316,5.2,49.1,22.7
+Uttapam (Restaurant),146,23.8,27.9,10.5
+Palak Paneer (Spicy),275,5.9,55.8,14.5
+Jeera Rice (Traditional),341,21.0,35.8,4.2
+Egg Curry (Home Style),444,3.5,41.1,5.6
+Misal Pav (Restaurant),220,3.8,49.1,6.4
+Paneer Biryani (Traditional),221,15.4,38.8,17.9
+Puri (Home Style),402,3.3,26.4,19.4
+Dal Tadka (Home Style),359,18.9,41.8,2.7
+Brown Rice (Restaurant),80,17.7,51.6,27.5
+Palak Paneer (Home Style),246,24.7,24.8,22.0
+Dal Tadka (Low Oil),189,19.5,32.7,6.6
+Paneer Paratha (Home Style),155,4.6,48.7,14.0
+Pongal (Traditional),155,18.3,47.6,14.3
+Gulab Jamun (Restaurant),148,16.2,10.5,27.2
+Vada (Low Oil),304,17.8,58.0,28.4
+Thepla (Home Style),252,4.9,25.1,2.6
+Paneer Paratha,151,12.2,7.5,26.3
+Fish Curry (Home Style),328,10.8,52.7,18.7
+Palak Paneer (Restaurant),159,10.7,52.8,8.7
+Fish Curry,327,15.9,51.6,4.5
+Rava Dosa (Home Style),173,23.5,57.3,1.1
+Pongal,344,23.6,56.1,28.9
+Idli (Low Oil),369,3.5,33.7,17.5
+Pav Bhaji (Low Oil),209,12.0,34.9,1.9
+Paneer Biryani (Spicy),317,22.4,50.4,15.0
+Egg Curry (Spicy),328,23.7,12.5,20.1
+Vada,343,8.2,46.7,3.3
+Plain Rice (Low Oil),149,24.1,51.4,11.8
+Upma (Low Oil),270,17.0,25.1,28.6
+Samosa (Home Style),333,6.9,22.4,2.8
+Pakora (Home Style),159,21.1,41.1,13.6
+Chapati (Home Style),366,13.6,14.9,26.2
+Omelette (Restaurant),329,2.5,24.6,27.7
+Halwa (Home Style),272,2.9,50.4,25.5
+Rajma (Spicy),173,24.9,8.5,7.7
+Kadhi (Restaurant),422,5.5,25.7,9.8
+Vada (Home Style),418,20.6,17.7,18.0
+Veg Biryani,231,8.6,24.0,19.5
+Gulab Jamun (Spicy),175,13.5,24.2,22.1
+Puri (Restaurant),419,5.0,9.1,8.9
+Chole (Spicy),438,17.7,42.5,6.4
+Butter Chicken (Home Style),102,6.2,37.6,14.4
+Samosa (Low Oil),274,2.3,56.7,14.3
+Jeera Rice (Low Oil),283,13.6,36.0,3.7
+Boiled Egg (Traditional),423,5.6,41.5,18.2
+Naan (Low Oil),450,21.1,36.0,20.3
+Halwa,105,16.2,40.1,6.3
+Ladoo (Traditional),186,10.5,55.6,26.2
+Dosa (Restaurant),322,23.9,36.0,12.2
+Veg Biryani (Traditional),428,16.4,58.2,6.1
+Jeera Rice (Restaurant),251,13.8,16.2,20.6
+Khichdi,155,24.0,38.5,25.5
+Kadhi (Home Style),115,7.1,17.2,13.0
+Ladoo (Spicy),134,15.5,29.1,14.8
+Pav Bhaji (Traditional),190,7.3,5.2,4.1
+Rajma (Home Style),87,24.4,21.1,20.3
+Plain Rice (Traditional),277,23.0,33.5,7.2
+Ladoo (Home Style),432,5.1,55.1,5.2
+Samosa (Spicy),354,15.5,40.4,18.9
+Vada (Traditional),425,17.8,11.2,29.4
+Rava Dosa (Restaurant),335,14.0,36.9,12.5
+Kheer (Restaurant),129,3.2,46.4,7.3
+Sambar,391,3.4,59.6,19.8
+Dal Makhani (Low Oil),118,15.3,57.8,15.8
+Khichdi (Home Style),219,3.8,34.0,19.1
+Poha (Home Style),131,15.4,30.0,10.2
+Masala Dosa,182,3.6,43.3,10.6
+Dhokla (Restaurant),276,9.0,33.2,2.1
+Rajma,184,7.6,24.9,15.4
+Jeera Rice (Home Style),318,6.5,15.9,8.2
+Naan (Spicy),445,2.7,57.5,24.3
+Fish Curry (Restaurant),148,17.9,37.8,17.0
+Egg Curry,121,10.9,18.2,19.8
+Palak Paneer,225,18.5,55.2,18.3
+Boiled Egg (Restaurant),177,17.9,17.5,25.5
+Upma (Restaurant),157,8.4,11.6,4.2
+Brown Rice (Low Oil),223,14.5,44.3,6.0
+Pakora (Restaurant),158,10.3,37.9,7.4
+Aloo Paratha (Spicy),113,7.3,13.4,28.7
+Paneer Biryani (Restaurant),386,5.5,8.8,15.0
+Paneer Butter Masala (Traditional),392,14.4,49.2,19.3
+Chicken Curry (Restaurant),335,23.9,28.5,4.1
+Naan (Restaurant),85,16.2,49.0,17.8
+Jeera Rice,395,23.8,52.2,1.2
+Uttapam (Home Style),156,8.4,8.1,6.3
+Brown Rice,101,15.8,33.5,20.6
+Aloo Paratha,261,13.7,29.5,21.4
+Samosa (Restaurant),131,16.7,29.9,18.9
+Medu Vada (Low Oil),370,5.5,6.1,20.6
+Paneer Butter Masala (Restaurant),192,19.1,29.9,26.7
+Sambar (Low Oil),158,10.0,42.4,2.2
+Chicken Curry,191,17.4,25.7,10.3
+Butter Chicken (Restaurant),417,7.7,26.4,13.1
+Rasam (Traditional),353,9.0,56.8,28.8
+Masala Dosa (Home Style),348,5.7,40.8,28.3
+Kadhi,306,6.5,52.8,8.2
+Gulab Jamun (Traditional),360,17.3,50.3,27.5
+Kadhi (Traditional),336,8.4,57.9,12.8
+Dal Makhani (Home Style),297,4.1,10.0,2.8
+Aloo Paratha (Home Style),297,11.7,56.0,15.7
+Masala Dosa (Traditional),121,23.7,42.8,16.3
+Halwa (Spicy),250,5.0,22.5,13.8
+Puri,197,19.2,49.7,16.4
+Jeera Rice (Spicy),368,7.9,30.0,8.7
+Naan (Home Style),192,6.1,32.7,2.7
+Dal Makhani,412,9.2,45.1,9.0
+Dosa (Low Oil),201,14.1,46.7,29.5
+Chicken Curry (Home Style),210,22.0,33.7,1.8
+Dal Makhani (Spicy),125,10.3,23.0,10.7
+Khichdi (Spicy),412,2.0,39.2,20.6
+Chapati (Traditional),109,18.8,57.9,9.4
+Rajma (Low Oil),245,20.7,51.8,7.2
+Paratha (Spicy),277,21.0,21.2,18.8
+Upma,411,24.5,37.1,13.1
+Masala Dosa (Low Oil),246,10.7,52.7,23.2
+Idli (Spicy),422,9.1,55.5,19.9
+Sambar (Spicy),299,6.3,47.5,24.2
+Upma (Spicy),414,20.5,58.9,11.2
+Boiled Egg,344,16.6,59.9,24.3
+Khichdi (Low Oil),298,12.6,15.3,23.1
+Biryani,198,16.2,57.2,24.8
+Medu Vada (Restaurant),358,18.6,26.2,14.6
+Payasam (Low Oil),450,4.2,10.2,13.4
+Pakora,135,21.0,18.0,28.4
+Biryani (Restaurant),342,8.1,25.0,9.1
+Veg Biryani (Restaurant),209,2.5,22.0,25.5
+Fish Curry (Traditional),280,13.5,21.9,6.9
+Rasam (Spicy),133,16.0,58.4,17.9
+Paratha,392,4.6,19.9,6.0
+Samosa (Traditional),386,19.9,44.9,9.3
+Chole (Low Oil),144,15.5,57.9,2.1
+Kheer (Spicy),310,14.4,31.1,28.4
+Halwa (Restaurant),267,19.7,11.7,2.1
+Uttapam,239,24.7,33.1,28.1
+Pongal (Low Oil),243,16.4,58.8,24.9
+Sambar (Restaurant),244,22.8,34.8,3.7
+Dosa,287,17.9,31.8,5.1
+Aloo Paratha (Traditional),411,6.7,54.1,12.3
+Aloo Paratha (Restaurant),159,23.8,42.8,2.2
+Veg Biryani (Home Style),208,3.8,14.0,27.3
+Pav Bhaji (Restaurant),198,3.6,28.0,13.4
+Kheer (Traditional),223,8.6,45.1,25.0
+Butter Chicken (Low Oil),278,9.4,32.3,1.1
+Poha (Low Oil),235,15.9,52.6,13.4
+Egg Curry (Restaurant),215,4.6,56.6,2.2
+Payasam (Home Style),281,9.3,18.7,29.2
+Dhokla,121,24.6,7.4,23.6
+Thepla (Spicy),418,21.3,52.1,10.0
+Egg Curry (Traditional),448,14.9,14.2,13.3
+Chicken Biryani (Spicy),153,7.4,5.1,3.2
+Misal Pav (Spicy),404,20.7,29.1,5.7
+Paneer Biryani (Low Oil),122,8.7,9.4,8.8
+Chicken Biryani,208,8.5,5.4,12.1
+Chicken Biryani (Restaurant),152,24.1,28.0,23.0
+Idli,101,5.9,23.9,11.0
+Idli (Traditional),208,23.8,6.0,13.0
+Plain Rice (Home Style),427,19.6,27.0,7.1
+Fish Curry (Spicy),378,7.8,46.3,24.7
+Payasam (Restaurant),235,7.4,6.2,20.7
+Puri (Spicy),240,8.5,52.6,6.3
+Sambar (Home Style),256,15.6,8.4,26.8
+Butter Chicken,291,13.7,44.7,27.9
+Aloo Paratha (Low Oil),249,12.1,54.1,6.3
+Sambar (Traditional),263,12.5,54.0,10.4
+Gulab Jamun (Low Oil),333,21.8,39.5,15.2
+Veg Biryani (Spicy),407,4.3,17.7,23.8
+Naan (Traditional),395,20.1,45.3,8.4
+Misal Pav (Traditional),156,11.6,5.4,3.0
+Dhokla (Home Style),192,7.7,13.4,6.9
+Payasam (Traditional),157,8.0,47.0,5.7
+Kheer (Low Oil),285,20.4,13.2,5.1
+Paneer Butter Masala (Spicy),231,7.0,18.9,13.2
+Misal Pav (Low Oil),345,9.2,26.0,26.3
+Paneer Paratha (Restaurant),377,4.6,54.5,29.7
+Fish Curry (Low Oil),204,19.0,23.4,13.8
+Dosa (Home Style),275,20.2,29.8,10.8
+Pongal (Spicy),127,11.7,43.9,13.2
+Paratha (Restaurant),233,10.2,26.6,28.1
+Paneer Biryani,380,12.7,33.2,9.6
+Dal Tadka (Traditional),315,3.2,37.2,2.1
+Dhokla (Spicy),333,5.5,50.4,28.8
+Puri (Traditional),322,22.3,9.3,13.3
+Butter Chicken (Traditional),278,9.0,5.1,4.6
+Omelette,333,7.4,22.2,28.2
+Chapati,166,18.9,50.2,24.3
+Chole (Home Style),239,25.0,33.3,23.5
+Egg Curry (Low Oil),435,18.4,21.7,10.9
+Misal Pav (Home Style),343,22.1,25.5,19.0
+Rasam (Low Oil),265,13.2,8.9,27.7
+Omelette (Traditional),135,7.8,59.0,3.6
+Khichdi (Restaurant),218,22.1,8.9,17.4
+Rava Dosa (Low Oil),240,18.6,7.4,12.5
+Rava Dosa (Spicy),126,17.4,24.5,25.3
+Vada (Spicy),183,9.0,27.7,10.6
+Medu Vada (Spicy),85,10.0,18.1,27.1
+Dal Makhani (Traditional),94,12.3,54.6,23.2
+Indian Dish 244,443,22.0,34.2,16.9
+Indian Dish 245,357,12.1,8.6,23.4
+Indian Dish 246,417,8.5,46.0,3.9
+Indian Dish 247,143,24.8,29.7,2.9
+Indian Dish 248,298,16.6,34.7,24.0
+Indian Dish 249,181,15.8,34.8,19.5
+Indian Dish 250,303,24.6,45.0,11.8
+Indian Dish 251,228,11.6,51.2,12.5
+Indian Dish 252,142,11.4,38.3,21.2
+Indian Dish 253,82,2.5,7.4,27.7
+Indian Dish 254,443,10.6,54.7,5.7
+Indian Dish 255,219,23.4,59.9,24.0
+Indian Dish 256,448,16.5,32.0,4.5
+Indian Dish 257,126,17.5,48.8,20.4
+Indian Dish 258,360,11.0,52.9,12.8
+Indian Dish 259,319,5.5,47.3,11.9
+Indian Dish 260,141,13.3,16.0,12.5
+Indian Dish 261,173,2.5,5.7,9.4
+Indian Dish 262,164,17.0,56.2,25.5
+Indian Dish 263,224,14.8,36.7,14.8
+Indian Dish 264,166,23.3,14.5,12.6
+Indian Dish 265,161,3.4,36.9,28.7
+Indian Dish 266,415,18.1,48.6,3.7
+Indian Dish 267,207,3.5,24.8,17.2
+Indian Dish 268,368,2.6,10.1,4.8
+Indian Dish 269,220,8.9,43.5,3.2
+Indian Dish 270,360,13.4,30.0,8.0
+Indian Dish 271,271,12.4,16.1,8.9
+Indian Dish 272,148,21.6,59.6,25.5
+Indian Dish 273,250,2.0,55.7,20.0
+Indian Dish 274,312,8.3,24.7,28.8
+Indian Dish 275,289,6.1,43.8,11.6
+Indian Dish 276,187,2.4,33.8,20.9
+Indian Dish 277,138,10.3,10.1,2.5
+Indian Dish 278,347,10.3,57.7,14.5
+Indian Dish 279,249,9.7,23.7,28.4
+Indian Dish 280,103,7.2,33.1,20.8
+Indian Dish 281,132,10.3,34.6,16.4
+Indian Dish 282,179,23.4,5.9,2.8
+Indian Dish 283,211,15.6,39.3,23.6
+Indian Dish 284,344,24.3,13.1,29.2
+Indian Dish 285,355,3.9,47.1,19.4
+Indian Dish 286,148,16.7,32.3,6.1
+Indian Dish 287,322,5.9,42.0,12.9
+Indian Dish 288,374,17.8,16.2,12.8
+Indian Dish 289,137,17.2,54.4,15.9
+Indian Dish 290,236,6.3,26.9,9.1
+Indian Dish 291,315,11.2,36.0,5.0
+Indian Dish 292,160,21.6,51.6,11.6
+Indian Dish 293,248,19.3,6.5,12.1
+Indian Dish 294,344,2.8,38.9,5.5
+Indian Dish 295,436,25.0,47.7,28.4
+Indian Dish 296,265,14.1,41.9,6.4
+Indian Dish 297,117,7.2,35.4,21.3
+Indian Dish 298,81,3.7,58.7,22.0
+Indian Dish 299,214,22.3,25.7,25.6
+Indian Dish 300,218,7.2,22.0,9.5
+Indian Dish 301,174,3.7,49.2,23.1
+Indian Dish 302,324,19.8,59.3,29.8
+Indian Dish 303,263,17.5,47.2,2.2
+Indian Dish 304,317,22.0,30.7,19.6
+Indian Dish 305,426,3.3,34.6,7.0
+Indian Dish 306,439,21.6,44.4,18.1
+Indian Dish 307,348,14.5,43.7,26.6
+Indian Dish 308,129,24.0,57.1,27.2
+Indian Dish 309,144,19.1,17.1,9.4
+Indian Dish 310,85,17.9,5.8,22.2
+Indian Dish 311,396,17.1,30.3,5.3
+Indian Dish 312,235,12.6,18.4,4.8
+Indian Dish 313,83,6.7,20.0,6.4
+Indian Dish 314,158,8.4,44.4,20.1
+Indian Dish 315,85,15.7,44.2,1.6
+Indian Dish 316,341,17.3,56.6,21.7
+Indian Dish 317,293,6.8,36.4,26.2
+Indian Dish 318,227,19.1,43.5,23.1
+Indian Dish 319,362,18.4,55.1,10.9
+Indian Dish 320,218,15.3,39.8,22.0
+Indian Dish 321,374,17.9,35.6,9.0
+Indian Dish 322,357,2.9,41.3,13.8
+Indian Dish 323,190,6.9,7.2,22.9
+Indian Dish 324,410,15.3,11.7,18.4
+Indian Dish 325,144,10.7,12.8,28.1
+Indian Dish 326,94,7.5,13.8,15.6
+Indian Dish 327,203,14.0,19.4,3.9
+Indian Dish 328,390,20.4,50.6,11.6
+Indian Dish 329,151,16.6,46.7,8.6
+Indian Dish 330,108,13.4,27.5,24.9
+Indian Dish 331,169,23.2,26.3,16.6
+Indian Dish 332,352,22.5,40.5,24.1
+Indian Dish 333,372,20.4,45.7,13.0
+Indian Dish 334,150,5.6,15.2,27.3
+Indian Dish 335,337,8.8,53.2,27.5
+Indian Dish 336,310,9.7,30.4,19.1
+Indian Dish 337,437,11.3,18.9,5.6
+Indian Dish 338,440,8.6,42.6,3.7
+Indian Dish 339,296,12.3,16.5,16.7
+Indian Dish 340,154,11.0,27.6,12.0
+Indian Dish 341,265,23.2,5.8,24.6
+Indian Dish 342,259,16.5,14.7,24.5
+Indian Dish 343,325,16.0,45.9,2.1
+Indian Dish 344,387,22.7,24.2,12.6
+Indian Dish 345,290,19.5,7.7,28.7
+Indian Dish 346,230,4.7,10.8,10.8
+Indian Dish 347,147,17.7,18.7,4.3
+Indian Dish 348,114,7.8,53.3,4.5
+Indian Dish 349,413,24.2,24.1,20.9
+Indian Dish 350,250,9.5,16.4,2.7
+Indian Dish 351,143,3.9,7.0,11.4
+Indian Dish 352,109,16.3,34.6,29.3
+Indian Dish 353,121,9.3,49.8,26.9
+Indian Dish 354,331,14.1,41.0,19.6
+Indian Dish 355,336,13.9,53.2,5.8
+Indian Dish 356,143,17.3,28.4,30.0
+Indian Dish 357,263,15.5,18.0,28.6
+Indian Dish 358,204,17.1,57.3,26.4
+Indian Dish 359,142,21.9,26.6,21.0
+Indian Dish 360,187,16.1,28.8,6.7
+Indian Dish 361,302,3.9,16.5,21.2
+Indian Dish 362,107,20.5,22.3,15.8
+Indian Dish 363,404,17.7,55.8,15.3
+Indian Dish 364,286,6.9,51.4,9.8
+Indian Dish 365,413,5.1,32.6,25.1
+Indian Dish 366,379,17.2,35.9,3.6
+Indian Dish 367,222,10.8,15.1,29.8
+Indian Dish 368,232,2.0,25.2,20.0
+Indian Dish 369,419,7.0,12.0,25.7
+Indian Dish 370,416,19.8,7.3,20.3
+Indian Dish 371,394,4.6,54.3,16.9
+Indian Dish 372,133,17.5,6.0,25.9
+Indian Dish 373,248,19.5,13.5,6.8
+Indian Dish 374,308,17.5,59.7,2.2
+Indian Dish 375,87,13.4,51.1,26.1
+Indian Dish 376,111,16.6,47.8,24.8
+Indian Dish 377,154,18.4,48.0,12.2
+Indian Dish 378,286,7.3,50.6,28.1
+Indian Dish 379,370,2.2,45.4,18.1
+Indian Dish 380,426,20.1,7.2,1.7
+Indian Dish 381,187,22.4,6.9,8.0
+Indian Dish 382,300,10.0,21.3,20.5
+Indian Dish 383,175,7.0,50.1,14.9
+Indian Dish 384,350,25.0,28.7,26.4
+Indian Dish 385,89,12.9,21.1,29.1
+Indian Dish 386,371,12.3,35.7,8.0
+Indian Dish 387,313,20.9,13.1,20.7
+Indian Dish 388,440,14.4,47.4,26.9
+Indian Dish 389,433,5.2,37.4,25.2
+Indian Dish 390,181,14.6,47.6,19.9
+Indian Dish 391,384,14.3,51.8,23.6
+Indian Dish 392,229,9.8,38.5,4.7
+Indian Dish 393,122,13.1,33.9,12.6
+Indian Dish 394,164,13.7,32.9,20.7
+Indian Dish 395,262,22.8,42.5,21.5
+Indian Dish 396,128,6.9,20.0,26.8
+Indian Dish 397,315,12.0,15.5,3.2
+Indian Dish 398,295,11.2,49.8,3.4
+Indian Dish 399,231,3.9,34.9,20.8
+Indian Dish 400,92,17.0,55.6,13.3
+Indian Dish 401,271,14.2,30.8,28.8
+Indian Dish 402,247,11.4,20.6,4.9
+Indian Dish 403,294,11.4,40.4,13.3
+Indian Dish 404,369,15.7,33.9,26.1
+Indian Dish 405,214,24.4,12.2,22.6
+Indian Dish 406,352,15.7,49.6,20.9
+Indian Dish 407,306,12.0,9.6,16.4
+Indian Dish 408,213,9.0,10.5,26.9
+Indian Dish 409,147,16.1,13.9,24.6
+Indian Dish 410,385,8.8,35.6,16.5
+Indian Dish 411,220,13.8,27.9,9.6
+Indian Dish 412,226,23.8,58.9,4.7
+Indian Dish 413,282,23.0,10.1,17.6
+Indian Dish 414,263,21.9,24.5,14.7
+Indian Dish 415,202,11.6,7.5,27.2
+Indian Dish 416,378,14.9,31.0,13.2
+Indian Dish 417,363,3.5,43.8,27.4
+Indian Dish 418,234,23.0,59.1,15.8
+Indian Dish 419,169,14.8,7.4,20.6
+Indian Dish 420,317,13.8,43.8,3.9
+Indian Dish 421,401,16.1,23.5,29.8
+Indian Dish 422,148,5.8,49.7,29.2
+Indian Dish 423,346,15.2,12.5,13.6
+Indian Dish 424,206,17.4,51.6,1.4
+Indian Dish 425,374,2.0,35.8,27.1
+Indian Dish 426,175,18.6,32.0,29.3
+Indian Dish 427,359,5.1,28.5,29.2
+Indian Dish 428,271,5.8,52.9,1.3
+Indian Dish 429,436,8.0,15.3,8.4
+Indian Dish 430,321,20.4,51.2,10.2
+Indian Dish 431,309,15.7,45.7,26.5
+Indian Dish 432,246,23.5,54.9,19.8
+Indian Dish 433,329,3.8,21.0,22.4
+Indian Dish 434,176,22.8,55.6,10.1
+Indian Dish 435,383,3.2,13.5,18.4
+Indian Dish 436,403,23.9,16.1,2.6
+Indian Dish 437,132,13.1,32.0,15.8
+Indian Dish 438,118,21.9,26.1,28.9
+Indian Dish 439,93,3.0,29.7,26.0
+Indian Dish 440,141,3.0,29.9,23.2
+Indian Dish 441,439,12.7,58.4,3.4
+Indian Dish 442,162,14.2,8.7,10.5
+Indian Dish 443,343,9.7,46.7,13.7
+Indian Dish 444,184,8.0,33.9,21.9
+Indian Dish 445,311,8.6,18.1,29.3
+Indian Dish 446,348,13.6,42.1,24.6
+Indian Dish 447,395,16.7,51.1,16.5
+Indian Dish 448,429,18.8,53.6,5.7
+Indian Dish 449,256,16.1,30.4,6.0
+Indian Dish 450,229,20.3,42.8,29.7
+Indian Dish 451,387,3.4,55.6,26.4
+Indian Dish 452,84,6.0,18.4,20.1
+Indian Dish 453,310,11.7,16.7,29.4
+Indian Dish 454,401,19.0,29.5,18.3
+Indian Dish 455,120,5.2,7.8,3.5
+Indian Dish 456,169,12.2,11.6,24.7
+Indian Dish 457,200,6.1,45.6,18.0
+Indian Dish 458,360,7.1,7.2,4.8
+Indian Dish 459,393,17.5,26.4,22.4
+Indian Dish 460,334,14.0,40.9,12.9
+Indian Dish 461,207,7.5,14.0,18.9
+Indian Dish 462,371,7.8,31.8,24.0
+Indian Dish 463,94,23.3,28.1,24.7
+Indian Dish 464,285,9.2,6.6,23.4
+Indian Dish 465,125,2.3,9.5,28.0
+Indian Dish 466,445,20.7,7.2,21.2
+Indian Dish 467,93,13.0,9.3,24.8
+Indian Dish 468,139,7.9,41.4,17.8
+Indian Dish 469,149,5.6,49.7,15.2
+Indian Dish 470,419,9.5,55.9,6.7
+Indian Dish 471,92,15.5,44.7,16.2
+Indian Dish 472,153,8.0,41.5,29.5
+Indian Dish 473,195,22.9,31.3,29.0
+Indian Dish 474,331,4.7,13.1,18.8
+Indian Dish 475,243,19.7,59.8,7.1
+Indian Dish 476,267,6.9,9.1,13.4
+Indian Dish 477,315,24.5,42.1,20.6
+Indian Dish 478,177,16.3,24.9,11.7
+Indian Dish 479,115,18.6,32.0,15.0
+Indian Dish 480,379,17.0,6.3,4.6
+Indian Dish 481,192,3.8,59.5,24.2
+Indian Dish 482,379,16.0,56.1,5.4
+Indian Dish 483,157,23.4,39.5,21.2
+Indian Dish 484,98,15.1,54.0,17.9
+Indian Dish 485,386,21.4,37.5,3.2
+Indian Dish 486,237,20.7,6.3,2.1
+Indian Dish 487,375,4.9,39.3,10.5
+Indian Dish 488,363,12.1,42.4,11.6
+Indian Dish 489,133,21.4,7.7,26.5
+Indian Dish 490,140,7.7,13.7,9.6
+Indian Dish 491,444,3.0,42.4,21.9
+Indian Dish 492,139,23.8,31.0,19.6
+Indian Dish 493,366,5.7,48.2,22.5
+Indian Dish 494,252,13.6,28.9,16.1
+Indian Dish 495,198,4.0,36.1,12.9
+Indian Dish 496,296,16.6,5.3,22.2
+Indian Dish 497,266,15.1,59.1,18.4
+Indian Dish 498,232,14.2,54.0,15.1
+Indian Dish 499,287,12.0,16.7,8.9
+Indian Dish 500,396,7.6,21.3,6.2
